@@ -1,0 +1,4 @@
+# Pinuts File Encoding: UTF-8
+
+password.minimumEntropy = 0
+password.minimumLength = 0
